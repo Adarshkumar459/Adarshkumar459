@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm Adarsh Kumar!</p>
 
 <p align="center">
-  <img src="github_profile_banner.png" alt="Adarsh Kumar Banner" width="100%" height="240px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="github_profile_banner.png" alt="Adarsh Kumar Banner" width="100%" height="320px" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 <p align="center">
@@ -24,8 +24,11 @@
 
 > **Passionate MERN Stack Developer & CSE Graduate** | Building scalable, user-centric web applications | Currently training at **J Spider Training Institute**
 
-I am a **B.Tech Computer Science & Engineering graduate** (Class of 2025) with a strong passion for building dynamic, responsive, and secure full-stack web applications. My expertise spans modern frontend frameworks, robust backend systems, and database management.
-
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>I am a <b>B.Tech Computer Science & Engineering graduate</b> (Class of 2025) with a strong passion for building dynamic, responsive, and secure full-stack web applications. My expertise spans modern frontend frameworks, robust backend systems, and database management.</p>
+      
 **Quick Highlights:**
 - 🎓 **B.Tech CSE** from Patel College of Science and Technology, Bhopal (CGPA: 7.54/10)
 - 🏫 **MERN Full Stack Developer Trainee** at J Spider Training Institute, Noida
@@ -33,6 +36,12 @@ I am a **B.Tech Computer Science & Engineering graduate** (Class of 2025) with a
 - 💼 Seeking **Software Developer / MERN Stack / Full Stack** opportunities
 - 🚀 Committed to writing clean, maintainable, and production-ready code
 - 🌟 Passionate about solving real-world problems with technology
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="20231207_131823.jpg" alt="Adarsh Kumar" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); max-width: 280px;" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -122,21 +131,15 @@ I am a **B.Tech Computer Science & Engineering graduate** (Class of 2025) with a
 | **Excellent Computer Center** | C and C++ Programming | Nov 2022 | Core programming fundamentals |
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <a href="https://github.com/Adarshkumar459">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshkumar459&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_border=true" />
-  </a>
-  <a href="https://github.com/Adarshkumar459">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar459&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshkumar459&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar459&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adarshkumar459">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshkumar459&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=58a6ff&dates=c9d1d9&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshkumar459&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=58a6ff&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
