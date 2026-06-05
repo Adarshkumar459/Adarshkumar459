@@ -41,9 +41,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshkumar459&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar459&layout=compact)
 
 ### 📫 Connect With Me
 
@@ -59,6 +59,6 @@ Email: adarshbhagat459@gmail.com
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshkumar459)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=Adarshkumar459)
