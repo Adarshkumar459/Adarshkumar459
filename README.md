@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm Adarsh Kumar!</p>
 
 <p align="center">
-  <img src="github_profile_banner.png" alt="Adarsh Kumar Banner" width="100%" />
+  <img src="github_profile_banner.png" alt="Adarsh Kumar Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
 <!-- Animated Typing Subtitle -->
@@ -14,13 +14,13 @@
 <!-- Quick Contacts -->
 <p align="center">
   <a href="https://linkedin.com/in/adarsh-kumar-4b163a228" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adarshbhagat459@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:adarshbhagat459@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Adarshkumar459" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -50,55 +50,36 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <br>
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <br>
-  <!-- Languages & Tools -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <strong>Frontend</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br><br>
+  <strong>Backend & Database</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br><br>
+  <strong>Languages & Tools</strong><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 Hospital Management System</h4>
-      <p><i>Web app for managing appointments and patient records with secure login flow.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square" />
-        <img src="https://img.shields.io/badge/JWT-🔑?style=flat-square" />
-      </p>
-      <a href="https://github.com/Adarshkumar459">📂 Code</a> | <a href="https://github.com/Adarshkumar459">🌐 Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Book Store Web Application</h4>
-      <p><i>Full-stack e-commerce book library featuring interactive CRUD operations.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square" />
-      </p>
-      <a href="https://github.com/Adarshkumar459">📂 Code</a> | <a href="https://github.com/Adarshkumar459">🌐 Demo</a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **🏥 Hospital Management System** | Web app for managing appointments and patient records with secure login flow. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) |
+| **📚 Book Store Web Application** | Full-stack e-commerce book library featuring interactive CRUD operations and user authentication. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) |
+
+> 👉 **[View More Projects](https://github.com/Adarshkumar459?tab=repositories)**
 
 ---
 
@@ -150,4 +131,25 @@
 
 <p align="center">
   🕵️‍♂️ Profile Visitor Count: <img src="https://komarev.com/ghpvc/?username=Adarshkumar459&color=61DAFB&style=flat-square" alt="Views" valign="middle" />
+</p>
+
+---
+
+### 🎯 Let's Connect!
+
+<p align="center">
+  <i>Feel free to reach out for collaborations, opportunities, or just a friendly chat!</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/adarsh-kumar-4b163a228" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adarshbhagat459@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ <b>If you like my work, consider giving my repositories a star!</b> ⭐
 </p>
