@@ -1,155 +1,112 @@
-# <p align="center">👋 Hi, I'm Adarsh Kumar!</p>
-
+# <p align="center">👋 Welcome to My GitHub Profile!</p>
 <p align="center">
-  <img src="github_profile_banner.png" alt="Adarsh Kumar Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+  <img src="github_profile_banner.png" alt="Adarsh Kumar - MERN & Full Stack Developer Banner" width="100%" />
 </p>
-
-<!-- Animated Typing Subtitle -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;Java+Programmer;Passionate+Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Quick Contacts -->
 <p align="center">
   <a href="https://linkedin.com/in/adarsh-kumar-4b163a228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adarshbhagat459@gmail.com" target="_blank">
+  <a href="mailto:adarshbhagat459@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Adarshkumar459" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="tel:+917549488317">
+    <img src="https://img.shields.io/badge/Call%20Me-008000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" />
+  </a>
 </p>
-
 ---
-
-### ⚡ Quick Overview
-
-<table border="0">
+### 💫 About Me
+I am a motivated and detail-oriented **MERN Stack Developer** and a **B.Tech Computer Science & Engineering Graduate** (Class of 2025). Currently, I am refining my skills as a **MERN Full Stack Developer** trainee at the **J Spider Training Institute** in Noida, UP.
+I have a strong foundation in building responsive, user-friendly, and secure web applications. I love architecting RESTful APIs, managing NoSQL & SQL databases, and designing sleek user interfaces that offer high performance and accessibility.
+Here is a quick overview of my profile:
+- 🎓 **Education:** B.Tech in Computer Science from **Patel College of Science and Technology, Bhopal** (CGPA: 7.54 / 10).
+- 📍 **Location:** Noida, Uttar Pradesh, India (Originally from Saharsa, Bihar).
+- 🌱 **Learning & Up-skilling:** Advanced Java development & advanced architectures in the MERN Stack.
+- 💼 **Looking for:** Entry-level Software Developer, MERN Stack Developer, Frontend, or Backend Engineer opportunities.
+- 🚀 **Goal:** To write clean, maintainable code and build applications that solve real-world problems.
+---
+### 🛠 Tech Stack
+I work with a variety of frontend, backend, database, and system-level technologies:
+<table>
   <tr>
-    <td width="60%" valign="top">
-      <p>I am a B.Tech Computer Science graduate specializing in building dynamic, full-stack web applications. Currently undergoing advanced MERN & Java development training in Noida, UP.</p>
-      <ul>
-        <li>🎓 <b>B.Tech CSE Graduate</b> (Class of 2025)</li>
-        <li>🏫 Trainee at <b>J Spider Training Institute</b></li>
-        <li>📍 Based in Noida, UP (Originally from Bihar)</li>
-        <li>💼 Open to <b>Software Developer / Full Stack</b> roles</li>
-      </ul>
+    <td valign="top" width="50%">
+      <h3>💻 Frontend Development</h3>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius: 8px;" alt="Coding Animation" />
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend & Database</h3>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>☕ Languages</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛠 Tools & Utilities</h3>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
   </tr>
 </table>
-
 ---
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br><br>
-  <strong>Backend & Database</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br><br>
-  <strong>Languages & Tools</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
+### 🚀 Highlighted Projects
+#### 🏥 [Hospital Management System](https://github.com/Adarshkumar459)
+*A comprehensive medical management platform designed to streamline administrative tasks and improve doctor-patient interaction.*
+- **Core Work & Implementation:**
+  - Designed a secure backend system with role-based access control (Admin, Doctors, Patients) using **JWT Authentication**.
+  - Engineered high-performance REST APIs to handle patient admissions, appointment bookings, and doctor shift schedules.
+  - Implemented data sanitization and error-handling middleware to prevent system crashes and secure operations.
+- **Tech Stack:** `React.js`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `JWT`
+- **Links:** [📂 Code Repository](https://github.com/Adarshkumar459) | [🌐 Live Project](https://github.com/Adarshkumar459)
+#### 📚 [Book Store Web Application](https://github.com/Adarshkumar459)
+*A full-stack e-commerce experience tailored for book enthusiasts, enabling robust search, categories, and inventory management.*
+- **Core Work & Implementation:**
+  - Built full CRUD operations allowing administrators to manage book details, pricing, and stock.
+  - Utilized MongoDB for persistent storage, structuring logical schema schemas with Mongoose for optimal query performance.
+  - Created a responsive storefront with dynamic search filters, smooth cart interactions, and clean responsive grids.
+- **Tech Stack:** `React.js`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`, `Mongoose`
+- **Links:** [📂 Code Repository](https://github.com/Adarshkumar459) | [🌐 Live Project](https://github.com/Adarshkumar459)
 ---
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **🏥 Hospital Management System** | Web app for managing appointments and patient records with secure login flow. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) |
-| **📚 Book Store Web Application** | Full-stack e-commerce book library featuring interactive CRUD operations and user authentication. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) |
-
-> 👉 **[View More Projects](https://github.com/Adarshkumar459?tab=repositories)**
-
+### 📜 Training & Certifications
+- 🏢 **MERN Full Stack Developer Trainee** | J Spider Training Institute, Noida (March 2025 - Present)
+  - Developed dynamic, responsive React components using modern JavaScript (ES6+) and Tailwind CSS.
+  - Created secure server-side logic and NoSQL databases for real-time application stability.
+- 🎓 **Java Programming and Development** | Apna College & Udemy
+- 💻 **MERN Stack Development** | PW Skills (Nov 2023)
+- ⚙️ **C and C++ Programming** | Excellent Computer Center (Nov 2022)
 ---
-
-### 📂 History & Achievements (Click to Expand)
-
-<details>
-<summary>🎓 <b>Educational Qualifications</b></summary>
-<br>
-
-- 🎓 **B.Tech in Computer Science**
-  - *Patel College of Science and Technology, Bhopal* (Graduated: June 2025)
-  - **CGPA:** 7.54 / 10
-- 🏫 **Intermediate (Class XII)**
-  - *S.N.S.R.K.S College, Saharsa, Bihar*
-  - **Percentage:** 72.8%
-- 🏫 **High-School (Class X)**
-  - *A.D.P.J. High School Mahishi, Saharsa, Bihar*
-  - **Percentage:** 75.2%
-</details>
-
-<details>
-<summary>📜 <b>Training & Certifications</b></summary>
-<br>
-
-- 🏢 **MERN Full Stack Training** – J Spider Training Institute, Noida (March 2025 – Present)
-- 📜 **Java Programming and Development** – Apna College & Udemy
-- 📜 **MERN Stack Development Certificate** – PW Skills (Nov 2023)
-- 📜 **C and C++ Training Certificate** – Excellent Computer Center (Nov 2022)
-</details>
-
----
-
 ### 📊 GitHub Analytics
-
 <p align="center">
   <a href="https://github.com/Adarshkumar459">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adarshkumar459&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" height="165em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Adarshkumar459&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" height="180em" />
   </a>
   <a href="https://github.com/Adarshkumar459">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar459&layout=compact&theme=tokyonight" alt="Adarsh's Top Languages" height="165em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar459&layout=compact&theme=tokyonight" alt="Adarsh's Top Languages" height="180em" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Adarshkumar459">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshkumar459&theme=tokyonight" alt="Adarsh's GitHub Streak" />
   </a>
 </p>
-
+<br>
 <p align="center">
-  🕵️‍♂️ Profile Visitor Count: <img src="https://komarev.com/ghpvc/?username=Adarshkumar459&color=61DAFB&style=flat-square" alt="Views" valign="middle" />
-</p>
-
----
-
-### 🎯 Let's Connect!
-
-<p align="center">
-  <i>Feel free to reach out for collaborations, opportunities, or just a friendly chat!</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/adarsh-kumar-4b163a228" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adarshbhagat459@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  ⭐ <b>If you like my work, consider giving my repositories a star!</b> ⭐
+  🕵️‍♂️ <i>Profile views counter</i><br>
+  <img src="https://komarev.com/ghpvc/?username=Adarshkumar459&color=bf2f00" alt="Adarsh's Profile Views" />
 </p>
