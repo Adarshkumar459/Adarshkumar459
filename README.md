@@ -50,3 +50,11 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 LinkedIn: www.linkedin.com/in/adarsh-kumar-4b163a228
 
 Email: adarshbhagat459@gmail.com
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
