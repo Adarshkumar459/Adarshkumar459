@@ -37,9 +37,6 @@
 - 🚀 Committed to writing clean, maintainable, and production-ready code
 - 🌟 Passionate about solving real-world problems with technology
     </td>
-    <td width="35%" align="center" valign="top">
-      <img src="20231207_131823.jpg" alt="Adarsh Kumar" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); max-width: 280px;" />
-    </td>
   </tr>
 </table>
 ---
